@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Hello, welcome to my shit posting website. 
 
-Maybe say a some things about yourself.
+I post just about anything under the sun if it interests me.
 
-Or maybe what you plan to blog about.
