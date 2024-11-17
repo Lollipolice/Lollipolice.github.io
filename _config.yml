@@ -1,12 +1,12 @@
 title: "Foolish Matters"
-author: ""
-description: "Hello, welcome to my shit posting website. I post just about anything under the sun if it interests me." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+author: "Cosmic Vagabond"
+description: "" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-#email: ""
-#twitter_username: ""
-#github_username: ""
+email: "email"
+twitter_username: "twitter"
+github_username: "github"
 #linkedin_username: ""
 #facebook_username: username
 #flickr_username: username
